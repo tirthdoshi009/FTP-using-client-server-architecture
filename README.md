@@ -1,6 +1,6 @@
 
 ### Instructions to run this code: 
-Clone the repository and go to in the folder: 
+Clone the repository and go in this folder: 
 
 1. Run the server.java file
 2. Run the ftpclient.java file
