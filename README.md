@@ -1,4 +1,4 @@
-This project is made by Tirth Doshi(UFID- 1171-4071)
+##This project is made by Tirth Doshi(UFID- 1171-4071)
 
 THe following are the steps for a user to follow: 
 
