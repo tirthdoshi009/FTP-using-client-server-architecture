@@ -1,6 +1,6 @@
-##This project is made by Tirth Doshi(UFID- 1171-4071)
 
-THe following are the steps for a user to follow: 
+### Instructions to run this code: 
+Clone the repository and go to in the folder: 
 
 1. Run the server.java file
 2. Run the ftpclient.java file
